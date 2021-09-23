@@ -9,7 +9,7 @@ This is a calculator which can do upto intermediate level mathematical calulatio
 ## 2. Odd or Even Game
 [View Code](https://github.com/evil-in/python-projects/blob/master/OddOrEven.py)
 >
-This is a simple game that will even give an ouput of *Odd* or *Even* based on the input number given by the user. 
+This is a simple game that will even give an output of *Odd* or *Even* based on the input number given by the user. 
 
 ## 3. Stock Market Web Application
 [View Code](https://github.com/evil-in/python-projects/blob/master/stock.py)
