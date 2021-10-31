@@ -1,10 +1,10 @@
 # Python Projects
-This repositiory is dedicated to a collection of small projects I make out of interest. They consist primarily of games and small wep apps. 
+This repository is dedicated to a collection of small projects I make out of interest. They consist primarily of games and small wep apps. 
 
 ## 1. Calculator
 [View Code](https://github.com/evil-in/python-projects/blob/master/calculator.py)
 >
-This is a calculator which can do upto intermediate level mathematical calulations, it also supports multiple step calulations. 
+This is a calculator which can do upto intermediate level mathematical calculations, it also supports multiple step calculations. 
 
 ## 2. Odd or Even Game
 [View Code](https://github.com/evil-in/python-projects/blob/master/OddOrEven.py)
